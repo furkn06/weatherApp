@@ -6,6 +6,6 @@
  <h1>GIF</h1>
  </hr>
 
- ![](Weather.gif)
+ ![](weather.gif)
 
 # weatherApp
